@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ticketcategory2" label="Ticket Category 2" language="en" table="x_377767_cesarapp1_or_ticket_system">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ticketcategory2</element>
+            <help/>
+            <hint/>
+            <label>Ticket Category 2</label>
+            <language>en</language>
+            <name>x_377767_cesarapp1_or_ticket_system</name>
+            <plural>Ticket Category 2s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-20 16:30:07</sys_created_on>
+            <sys_id>d31611c9dbfa33001beb7a6139961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Ticket Category 2</sys_name>
+            <sys_package display_value="CesarApp1" source="x_377767_cesarapp1">555a193adb2233001beb7a61399619b3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CesarApp1">555a193adb2233001beb7a61399619b3</sys_scope>
+            <sys_update_name>sys_documentation_x_377767_cesarapp1_or_ticket_system_ticketcategory2_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-20 16:30:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

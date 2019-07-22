@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_377767_cesarapp1_or_ticket_system">x_377767_cesarapp1_or_ticket_system</category>
+        <maximum_digits>6</maximum_digits>
+        <number>3000</number>
+        <prefix>OR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-20 14:43:10</sys_created_on>
+        <sys_id>e0adf00ddbba33001beb7a61399619f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OR</sys_name>
+        <sys_package display_value="CesarApp1" source="x_377767_cesarapp1">555a193adb2233001beb7a61399619b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CesarApp1">555a193adb2233001beb7a61399619b3</sys_scope>
+        <sys_update_name>sys_number_e0adf00ddbba33001beb7a61399619f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-20 14:43:10</sys_updated_on>
+    </sys_number>
+</record_update>

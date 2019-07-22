@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>OR Ticket System</name>
+        <order/>
+        <roles>x_377767_cesarapp1.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-20 14:43:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d4adf00ddbba33001beb7a613996195a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OR Ticket System</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CesarApp1" source="x_377767_cesarapp1">555a193adb2233001beb7a61399619b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CesarApp1">555a193adb2233001beb7a61399619b3</sys_scope>
+        <sys_update_name>sys_ui_application_d4adf00ddbba33001beb7a613996195a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-20 14:43:09</sys_updated_on>
+    </sys_ui_application>
+</record_update>
