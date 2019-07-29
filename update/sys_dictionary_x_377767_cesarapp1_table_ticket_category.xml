@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-07-20 14:20:42</sys_created_on>
-        <sys_id>5e18b809dbba33001beb7a6139961982</sys_id>
+        <sys_id>5492f323db7233001beb7a6139961952</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Ticket Category</sys_name>
         <sys_package display_value="CesarApp1" source="x_377767_cesarapp1">555a193adb2233001beb7a61399619b3</sys_package>
         <sys_policy/>
         <sys_scope display_value="CesarApp1">555a193adb2233001beb7a61399619b3</sys_scope>
         <sys_update_name>sys_dictionary_x_377767_cesarapp1_table_ticket_category</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-20 14:20:42</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-07-28 22:18:33</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

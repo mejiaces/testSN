@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_other</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-29 16:02:42</sys_created_on>
+        <sys_id>01f5e3bbdb3233001beb7a613996193d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_other</sys_name>
+        <sys_package display_value="CesarApp1" source="x_377767_cesarapp1">555a193adb2233001beb7a61399619b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CesarApp1">555a193adb2233001beb7a61399619b3</sys_scope>
+        <sys_update_name>sys_ui_policy_action_01f5e3bbdb3233001beb7a613996193d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-29 16:02:42</sys_updated_on>
+        <table>x_377767_cesarapp1_needit</table>
+        <ui_policy display_value="NeedIt show or hide Other field">fbc2e33bdb3233001beb7a61399619be</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
